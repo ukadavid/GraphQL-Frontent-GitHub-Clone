@@ -1,0 +1,11 @@
+@import 'variables';
+@import 'config';
+@import 'general';
+
+// Layouts styles Import
+@import 'layouts/header';
+@import 'layouts/footer';
+
+//  Sections styles import
+@import 'sections/page-content';
+@import 'sections/section-nav';
